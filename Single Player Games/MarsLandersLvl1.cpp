@@ -68,6 +68,8 @@ int main()
         }
 
 
+
+
         cout << to_string(newAngle) << " " << to_string(newThrust) << endl;
 
 
