@@ -12,7 +12,6 @@ using namespace std;
 int main()
 {
     string MESSAGE;
-    int front, back;
     deque<int> S;
     deque<int> tempDeque;
 
